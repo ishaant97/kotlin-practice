@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ca9449-dee3-4e1a-9135-96f76f5bcf1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 2/Character_data_type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 2/String.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 2/String_Interpolation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/Vars.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day 1/Vars.kt" afterDir="false" />
-    </list>
+    <list default="true" id="a0ca9449-dee3-4e1a-9135-96f76f5bcf1d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
