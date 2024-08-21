@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ca9449-dee3-4e1a-9135-96f76f5bcf1d" name="Changes" comment="" />
+    <list default="true" id="a0ca9449-dee3-4e1a-9135-96f76f5bcf1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,8 +38,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Array2dKt.executor": "Run",
     "Kotlin.ArrayKt.executor": "Run",
+    "Kotlin.ArraysKt.executor": "Run",
     "Kotlin.Character_data_typeKt.executor": "Run",
+    "Kotlin.DataTypeConversionKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
     "Kotlin.String_InterpolationKt.executor": "Run",
     "Kotlin.VarsKt.executor": "Run",
@@ -49,7 +54,14 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayKt">
+  <component name="RunManager" selected="Kotlin.SafeAndUnsafeTypeCastKt">
+    <configuration name="Array2dKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 3.Array2dKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day 2.ArrayKt" />
       <module name="Kotlin-practice" />
@@ -57,29 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Character_data_typeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 2.Character_data_typeKt" />
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 3.ArraysKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 2.StringKt" />
+    <configuration name="DataTypeConversionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 3.DataTypeConversionKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_InterpolationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 2.String_InterpolationKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VarsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 1.VarsKt" />
+    <configuration name="SafeAndUnsafeTypeCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 3.SafeAndUnsafeTypeCastKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SafeAndUnsafeTypeCastKt" />
+        <item itemvalue="Kotlin.DataTypeConversionKt" />
+        <item itemvalue="Kotlin.Array2dKt" />
+        <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.ArrayKt" />
-        <item itemvalue="Kotlin.StringKt" />
-        <item itemvalue="Kotlin.Character_data_typeKt" />
-        <item itemvalue="Kotlin.String_InterpolationKt" />
-        <item itemvalue="Kotlin.VarsKt" />
       </list>
     </recent_temporary>
   </component>
