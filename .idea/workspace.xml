@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a0ca9449-dee3-4e1a-9135-96f76f5bcf1d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day 3/SafeAndUnsafeTypeCast.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day 3/SafeAndUnsafeTypeCast.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -41,10 +43,15 @@
     "Kotlin.Array2dKt.executor": "Run",
     "Kotlin.ArrayKt.executor": "Run",
     "Kotlin.ArraysKt.executor": "Run",
+    "Kotlin.AssignmentOperatorsKt.executor": "Run",
     "Kotlin.Character_data_typeKt.executor": "Run",
     "Kotlin.DataTypeConversionKt.executor": "Run",
+    "Kotlin.OperatorsKt.executor": "Run",
+    "Kotlin.RelationalOperatorKt.executor": "Run",
+    "Kotlin.SafeAndUnsafeTypeCastKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
     "Kotlin.String_InterpolationKt.executor": "Run",
+    "Kotlin.UnaryOperatorsKt.executor": "Run",
     "Kotlin.VarsKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -54,30 +61,23 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.SafeAndUnsafeTypeCastKt">
-    <configuration name="Array2dKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 3.Array2dKt" />
+  <component name="RunManager" selected="Kotlin.UnaryOperatorsKt">
+    <configuration name="ArithmeticOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 4.ArithmeticOperatorsKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 2.ArrayKt" />
+    <configuration name="AssignmentOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 4.AssignmentOperatorsKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 3.ArraysKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataTypeConversionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 3.DataTypeConversionKt" />
+    <configuration name="RelationalOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 4.RelationalOperatorsKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,13 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnaryOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 4.UnaryOperatorsKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.UnaryOperatorsKt" />
+        <item itemvalue="Kotlin.AssignmentOperatorsKt" />
+        <item itemvalue="Kotlin.RelationalOperatorsKt" />
+        <item itemvalue="Kotlin.ArithmeticOperatorsKt" />
         <item itemvalue="Kotlin.SafeAndUnsafeTypeCastKt" />
-        <item itemvalue="Kotlin.DataTypeConversionKt" />
-        <item itemvalue="Kotlin.Array2dKt" />
-        <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.ArrayKt" />
       </list>
     </recent_temporary>
   </component>
