@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ca9449-dee3-4e1a-9135-96f76f5bcf1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/AgeClassification.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/ConditionalStatementsIfElse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/GradingSystemProgram.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day 3/SafeAndUnsafeTypeCast.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day 3/SafeAndUnsafeTypeCast.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day 5/EvenOrOdd.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/EvenOrOdd.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +48,12 @@
     "Kotlin.ArrayKt.executor": "Run",
     "Kotlin.ArraysKt.executor": "Run",
     "Kotlin.AssignmentOperatorsKt.executor": "Run",
+    "Kotlin.CalculatorKt.executor": "Run",
     "Kotlin.Character_data_typeKt.executor": "Run",
+    "Kotlin.ConditionalStatementsIfElseKt.executor": "Run",
     "Kotlin.DataTypeConversionKt.executor": "Run",
+    "Kotlin.EvenOrOddKt.executor": "Run",
+    "Kotlin.GradingSystemProgramKt.executor": "Run",
     "Kotlin.OperatorsKt.executor": "Run",
     "Kotlin.RelationalOperatorKt.executor": "Run",
     "Kotlin.SafeAndUnsafeTypeCastKt.executor": "Run",
@@ -53,6 +61,7 @@
     "Kotlin.String_InterpolationKt.executor": "Run",
     "Kotlin.UnaryOperatorsKt.executor": "Run",
     "Kotlin.VarsKt.executor": "Run",
+    "Kotlin.WhenKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -61,37 +70,37 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.UnaryOperatorsKt">
-    <configuration name="ArithmeticOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 4.ArithmeticOperatorsKt" />
+  <component name="RunManager" selected="Kotlin.EvenOrOddKt">
+    <configuration name="CalculatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 5.CalculatorKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssignmentOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 4.AssignmentOperatorsKt" />
+    <configuration name="ConditionalStatementsIfElseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 5.ConditionalStatementsIfElseKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 4.RelationalOperatorsKt" />
+    <configuration name="EvenOrOddKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 5.EvenOrOddKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SafeAndUnsafeTypeCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 3.SafeAndUnsafeTypeCastKt" />
+    <configuration name="GradingSystemProgramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 5.GradingSystemProgramKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnaryOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 4.UnaryOperatorsKt" />
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 5.WhenKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.UnaryOperatorsKt" />
-        <item itemvalue="Kotlin.AssignmentOperatorsKt" />
-        <item itemvalue="Kotlin.RelationalOperatorsKt" />
-        <item itemvalue="Kotlin.ArithmeticOperatorsKt" />
-        <item itemvalue="Kotlin.SafeAndUnsafeTypeCastKt" />
+        <item itemvalue="Kotlin.EvenOrOddKt" />
+        <item itemvalue="Kotlin.WhenKt" />
+        <item itemvalue="Kotlin.CalculatorKt" />
+        <item itemvalue="Kotlin.GradingSystemProgramKt" />
+        <item itemvalue="Kotlin.ConditionalStatementsIfElseKt" />
       </list>
     </recent_temporary>
   </component>
