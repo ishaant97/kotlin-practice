@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ca9449-dee3-4e1a-9135-96f76f5bcf1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/AgeClassification.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/Calculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/ConditionalStatementsIfElse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/GradingSystemProgram.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 6/ForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 6/IteratingOverAList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 6/ReverseLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 6/WhileLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day 5/EvenOrOdd.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day 5/EvenOrOdd.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/Day 6/DoWhileLoop.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,16 +54,21 @@
     "Kotlin.Character_data_typeKt.executor": "Run",
     "Kotlin.ConditionalStatementsIfElseKt.executor": "Run",
     "Kotlin.DataTypeConversionKt.executor": "Run",
+    "Kotlin.DoWhileLoopKt.executor": "Run",
     "Kotlin.EvenOrOddKt.executor": "Run",
+    "Kotlin.ForLoopKt.executor": "Run",
     "Kotlin.GradingSystemProgramKt.executor": "Run",
+    "Kotlin.IteratingOverAListKt.executor": "Run",
     "Kotlin.OperatorsKt.executor": "Run",
     "Kotlin.RelationalOperatorKt.executor": "Run",
+    "Kotlin.ReverseLoopKt.executor": "Run",
     "Kotlin.SafeAndUnsafeTypeCastKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
     "Kotlin.String_InterpolationKt.executor": "Run",
     "Kotlin.UnaryOperatorsKt.executor": "Run",
     "Kotlin.VarsKt.executor": "Run",
     "Kotlin.WhenKt.executor": "Run",
+    "Kotlin.WhileLoopKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -70,37 +77,37 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.EvenOrOddKt">
-    <configuration name="CalculatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 5.CalculatorKt" />
+  <component name="RunManager" selected="Kotlin.FunctionsKt">
+    <configuration name="DoWhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 6.DoWhileLoopKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalStatementsIfElseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 5.ConditionalStatementsIfElseKt" />
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 6.FunctionsKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOrOddKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 5.EvenOrOddKt" />
+    <configuration name="IteratingOverAListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 6.IteratingOverAListKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradingSystemProgramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 5.GradingSystemProgramKt" />
+    <configuration name="ReverseLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 6.ReverseLoopKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 5.WhenKt" />
+    <configuration name="WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 6.WhileLoopKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.EvenOrOddKt" />
-        <item itemvalue="Kotlin.WhenKt" />
-        <item itemvalue="Kotlin.CalculatorKt" />
-        <item itemvalue="Kotlin.GradingSystemProgramKt" />
-        <item itemvalue="Kotlin.ConditionalStatementsIfElseKt" />
+        <item itemvalue="Kotlin.FunctionsKt" />
+        <item itemvalue="Kotlin.DoWhileLoopKt" />
+        <item itemvalue="Kotlin.WhileLoopKt" />
+        <item itemvalue="Kotlin.IteratingOverAListKt" />
+        <item itemvalue="Kotlin.ReverseLoopKt" />
       </list>
     </recent_temporary>
   </component>
