@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ca9449-dee3-4e1a-9135-96f76f5bcf1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 6/ForLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 6/IteratingOverAList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 6/ReverseLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day 6/WhileLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +47,20 @@
     "Kotlin.ArraysKt.executor": "Run",
     "Kotlin.AssignmentOperatorsKt.executor": "Run",
     "Kotlin.CalculatorKt.executor": "Run",
+    "Kotlin.CelsiusToFarhrenheitKt.executor": "Run",
     "Kotlin.Character_data_typeKt.executor": "Run",
     "Kotlin.ConditionalStatementsIfElseKt.executor": "Run",
     "Kotlin.DataTypeConversionKt.executor": "Run",
     "Kotlin.DoWhileLoopKt.executor": "Run",
     "Kotlin.EvenOrOddKt.executor": "Run",
     "Kotlin.ForLoopKt.executor": "Run",
+    "Kotlin.FunctionKt.executor": "Run",
+    "Kotlin.FunctionsKt.executor": "Run",
     "Kotlin.GradingSystemProgramKt.executor": "Run",
     "Kotlin.IteratingOverAListKt.executor": "Run",
     "Kotlin.OperatorsKt.executor": "Run",
     "Kotlin.RelationalOperatorKt.executor": "Run",
+    "Kotlin.ReturnFunctionKt.executor": "Run",
     "Kotlin.ReverseLoopKt.executor": "Run",
     "Kotlin.SafeAndUnsafeTypeCastKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
@@ -77,9 +77,23 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FunctionsKt">
+  <component name="RunManager" selected="Kotlin.CelsiusToFarhrenheitKt">
+    <configuration name="CelsiusToFarhrenheitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 7.CelsiusToFarhrenheitKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DoWhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day 6.DoWhileLoopKt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 7.FunctionKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,22 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratingOverAListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 6.IteratingOverAListKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 6.ReverseLoopKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 6.WhileLoopKt" />
+    <configuration name="ReturnFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 7.ReturnFunctionKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CelsiusToFarhrenheitKt" />
+        <item itemvalue="Kotlin.ReturnFunctionKt" />
+        <item itemvalue="Kotlin.FunctionKt" />
         <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Kotlin.DoWhileLoopKt" />
-        <item itemvalue="Kotlin.WhileLoopKt" />
-        <item itemvalue="Kotlin.IteratingOverAListKt" />
-        <item itemvalue="Kotlin.ReverseLoopKt" />
       </list>
     </recent_temporary>
   </component>
