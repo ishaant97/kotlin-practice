@@ -40,43 +40,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Array2dKt.executor": "Run",
-    "Kotlin.ArrayKt.executor": "Run",
-    "Kotlin.ArraysKt.executor": "Run",
-    "Kotlin.AssignmentOperatorsKt.executor": "Run",
-    "Kotlin.CalculatorKt.executor": "Run",
-    "Kotlin.CelsiusToFarhrenheitKt.executor": "Run",
-    "Kotlin.Character_data_typeKt.executor": "Run",
-    "Kotlin.ConditionalStatementsIfElseKt.executor": "Run",
-    "Kotlin.DataTypeConversionKt.executor": "Run",
-    "Kotlin.DoWhileLoopKt.executor": "Run",
-    "Kotlin.EvenOrOddKt.executor": "Run",
-    "Kotlin.ForLoopKt.executor": "Run",
-    "Kotlin.FunctionKt.executor": "Run",
-    "Kotlin.FunctionsKt.executor": "Run",
-    "Kotlin.GradingSystemProgramKt.executor": "Run",
-    "Kotlin.IteratingOverAListKt.executor": "Run",
-    "Kotlin.OperatorsKt.executor": "Run",
-    "Kotlin.RelationalOperatorKt.executor": "Run",
-    "Kotlin.ReturnFunctionKt.executor": "Run",
-    "Kotlin.ReverseLoopKt.executor": "Run",
-    "Kotlin.SafeAndUnsafeTypeCastKt.executor": "Run",
-    "Kotlin.StringKt.executor": "Run",
-    "Kotlin.String_InterpolationKt.executor": "Run",
-    "Kotlin.UnaryOperatorsKt.executor": "Run",
-    "Kotlin.VarsKt.executor": "Run",
-    "Kotlin.WhenKt.executor": "Run",
-    "Kotlin.WhileLoopKt.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Array2dKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArrayKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArraysKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AssignmentOperatorsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CalculatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CelsiusToFarhrenheitKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Character_data_typeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ConditionalStatementsIfElseKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DataTypeConversionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DoWhileLoopKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.EvenOrOddKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ForLoopKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GradingSystemProgramKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.IteratingOverAListKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.OperatorsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RelationalOperatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ReturnFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ReverseLoopKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SafeAndUnsafeTypeCastKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.StringKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.String_InterpolationKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.UnaryOperatorsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VarsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhenKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhileLoopKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.CelsiusToFarhrenheitKt">
     <configuration name="CelsiusToFarhrenheitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day 7.CelsiusToFarhrenheitKt" />
