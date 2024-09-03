@@ -59,6 +59,7 @@
     "Kotlin.FunctionsKt.executor": "Run",
     "Kotlin.GradingSystemProgramKt.executor": "Run",
     "Kotlin.InheritanceKt.executor": "Run",
+    "Kotlin.InterfaceKt.executor": "Run",
     "Kotlin.IteratingOverAListKt.executor": "Run",
     "Kotlin.OperatorsKt.executor": "Run",
     "Kotlin.PrimaryConstructorKt.executor": "Run",
@@ -80,7 +81,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.InheritanceKt">
+  <component name="RunManager" selected="Kotlin.InterfaceKt">
     <configuration name="CelsiusToFarhrenheitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day 7.CelsiusToFarhrenheitKt" />
       <module name="Kotlin-practice" />
@@ -95,15 +96,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimaryConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 8.PrimaryConstructorKt" />
+    <configuration name="InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 9.InterfaceKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 7.ReturnFunctionKt" />
+    <configuration name="PrimaryConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 8.PrimaryConstructorKt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfaceKt" />
         <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.PrimaryConstructorKt" />
         <item itemvalue="Kotlin.SecondaryConstructorKt" />
         <item itemvalue="Kotlin.CelsiusToFarhrenheitKt" />
-        <item itemvalue="Kotlin.ReturnFunctionKt" />
       </list>
     </recent_temporary>
   </component>
