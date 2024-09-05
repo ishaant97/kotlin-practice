@@ -63,6 +63,8 @@
     "Kotlin.IteratingOverAListKt.executor": "Run",
     "Kotlin.OperatorsKt.executor": "Run",
     "Kotlin.PrimaryConstructorKt.executor": "Run",
+    "Kotlin.Question1Kt.executor": "Run",
+    "Kotlin.Question2Kt.executor": "Run",
     "Kotlin.RelationalOperatorKt.executor": "Run",
     "Kotlin.ReturnFunctionKt.executor": "Run",
     "Kotlin.ReverseLoopKt.executor": "Run",
@@ -81,14 +83,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.InterfaceKt">
-    <configuration name="CelsiusToFarhrenheitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 7.CelsiusToFarhrenheitKt" />
-      <module name="Kotlin-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Question2Kt">
     <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day 8.InheritanceKt" />
       <module name="Kotlin-practice" />
@@ -110,8 +105,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondaryConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day 8.SecondaryConstructorKt" />
+    <configuration name="Question1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 10.Question1Kt" />
+      <module name="Kotlin-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day 10.Question2Kt" />
       <module name="Kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Question2Kt" />
+        <item itemvalue="Kotlin.Question1Kt" />
         <item itemvalue="Kotlin.InterfaceKt" />
         <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.PrimaryConstructorKt" />
-        <item itemvalue="Kotlin.SecondaryConstructorKt" />
-        <item itemvalue="Kotlin.CelsiusToFarhrenheitKt" />
       </list>
     </recent_temporary>
   </component>
